@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cecilia-n
 - 👀 I’m interested in data science 
-- 🌱 I’m currently learning R and Python 
+- 🌱 I’m currently learning R,Python, HTML, SQL 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
