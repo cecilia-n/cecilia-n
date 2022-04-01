@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cecilia-n
 - 🔗 I’m interested in data science 
-- 🌱 I’m currently learning R,Python,Git/Github,HTML,SQL 
+- 🌱 I’m currently learning R,Python, SQL, Git,HTML,CSS, Javascript
 - 📚 I really want to learn AWS, C++
 - ⚙️ I’m looking to collaborate on...
 - 📫 How to reach me: cecilian58213@gmail.com
