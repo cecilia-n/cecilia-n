@@ -2,7 +2,7 @@
 - 🔗 I’m interested in data science 
 - 🌱 I’m currently learning R,Python, SQL, Git,HTML,CSS, Javascript
 - 📚 I really want to learn AWS, C++
-- ⚙️ I’m looking to collaborate on...
+- ⚙️ I’m looking to collaborate on any projects requiring data science!
 - 📫 How to reach me: cecilian58213@gmail.com
 
 <!---
