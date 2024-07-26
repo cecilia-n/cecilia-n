@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cecilia-n
 - 🔗 I’m interested in Data Science, AI, ML
-  -   Currently interested in Data Analysis/Visualizations, Data Engineering, Forecasting, Data Mining, NLP
+  -   Currently interested in  ML, Forecasting, Data Engineering, Data Mining,
   -   and Statistical Modeling
 - 🌱 I’m currently practicing Python, SQL, R, Git
 - 📚 I really want to learn Version Control/Data Structures well 
