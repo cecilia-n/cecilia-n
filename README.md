@@ -2,8 +2,8 @@
 - 🔗 I’m interested in Data Science
   -   Topics Currently interested in:  Data Engineering, ML
   -   and Statistical Modeling
-- 🌱 I’m currently practicing Python, SQL, R, Git
-- 📚 I really want to learn dbt/Data Structures well 
+- 🌱 I’m currently practicing my skills in dbt, SQL, Python
+- 📚 I really want to learn Data Structures well 
 - ⚙️ I’m looking to collaborate on any projects or any hackathons!
 - 📫 How to reach me: cecilian58213@gmail.com
 
